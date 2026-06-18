@@ -36,6 +36,7 @@ This is a fun, terminal-based implementation of the popular Hangman game. Player
 
 ## 💻 Running the Game
 
+
 ```bash
 python task2.py
 
