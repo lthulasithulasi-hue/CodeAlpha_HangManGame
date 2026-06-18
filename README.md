@@ -39,12 +39,3 @@ This is a fun, terminal-based implementation of the popular Hangman game. Player
 ```bash
 python task2.py
 
-🎲 Word List
-The current word list includes:
-
-python
-computer
-coding
-developer
-program
-You can easily customize the word list by editing the words variable in the script.
